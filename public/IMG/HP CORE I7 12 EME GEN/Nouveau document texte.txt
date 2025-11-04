@@ -1,0 +1,12 @@
+550 000 F Cfa
+HP CORE I7 12 EME GEN
+ Colobane Dakar
+Détails
+EtatNeufMarqueHPCouleurGRISEProcesseur4.7GHZRAM8GOStockage512GO
+Description
+Ordinateur portable HP Pavillon 15
+Processeur Core i7 12-ème génération (jusqu'à 4,7 GHz en Turbo Boost, 12 Mo de cache L3)
+Mémoire 8 Go de RAM DDR4-3200 MHz extensible à 32go.
+Disque dur SSD 512 go M.2 PCIe® NVMe™ (possible aussi en 1To)
+Ecran 15,6" FHD (1 920 x 1 080), micro-bords, antireflet, 250 nits/ Combo Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-Fi® et Bluetooth® 5/Audio par B&O ; Haut-parleurs doubles ; Amplification audio HP/Caméra HD HP Wide Vision 720p avec microphones numériques à double matrice intégrés/1 taux de signalisation SuperSpeed USB Type-C® 10 Gbit/s (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge) ; 2 taux de signalisation SuperSpeed USB Type-A 5 Gbit/s ; 1 HDMI 2.0 ; 1 broche intelligente CA ; 1 combo casque/micro
+

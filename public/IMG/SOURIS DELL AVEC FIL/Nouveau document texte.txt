@@ -1,0 +1,16 @@
+2 000 F Cfa
+SOURIS DELL AVEC FIL
+ Colobane Dakar
+Détails
+EtatNeufCouleurNOIR
+Description
+SOURIS DELL AVEC FIL
+Marque : DELL
+Modèle : MS111-L
+Référence : 0YR0N4 / YR0N4
+Type : Filaire
+Technologie : Optique
+Résolution : 1000 DPI
+Boutons : 3 boutons + Molette
+Interface : USB
+Couleur : Noire et Grise
