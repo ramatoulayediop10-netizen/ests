@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { Zap, Shield, Users } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import { Button } from "./ui/button";
 
 // ✅ Nouveau Hero Section moderne, premium & animé
 export function Hero() {
