@@ -24,7 +24,7 @@ export function Footer() {
 
   return (
     <>
-      {/* --- Map avant le footer --- */}
+    {/* --- Map avant le footer --- */}
       <motion.section
         className="w-full mb-16"
         initial={{ opacity: 0, y: 50 }}
@@ -32,17 +32,19 @@ export function Footer() {
         viewport={{ once: true }}
         transition={{ duration: 1.2, ease: "easeOut" }}
       >
-        <div className="w-full h-[500px] md:h-[600px] lg:h-[700px] rounded-2xl overflow-hidden shadow-xl mx-auto">
-          <iframe
-            title="Localisation  ESTS"
-            src="google.com/maps?q=14.6963214874268,-17.4472522735596"
-            width="100%"
-            height="100%"
-            className="border-0"
-            allowFullScreen
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          />
+      <div className="w-full h-[500px] md:h-[600px] lg:h-[700px] rounded-2xl overflow-hidden shadow-xl mx-auto">
+  <iframe
+    title="Localisation d'AGS"
+    src="https://www.google.com/maps?q=14.6963214874268,-17.4472522735596&hl=fr&z=15&output=embed"
+    width="100%"
+    height="100%"
+    className="border-0"
+    allowFullScreen
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+  />
+
+
         </div>
       </motion.section>
 
