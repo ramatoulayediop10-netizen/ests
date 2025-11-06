@@ -81,7 +81,8 @@ export function Hero() {
           >
             {line1}
             <br />
-            <span className="text-blue-600">{line2}</span>
+            <span style={{ color: "#D61F29" }}>{line2}</span>
+
           </motion.h1>
 
           <motion.p
@@ -106,7 +107,7 @@ export function Hero() {
               <div style={{ textAlign: "center" }}>
                 <div
                   style={{
-                    backgroundColor: "#1E40AF", // bleu foncé
+                    backgroundColor: "#cc2e2eff", // bleu foncé
                     padding: "1rem",
                     borderRadius: "50%",
                     width: "56px",
@@ -132,7 +133,7 @@ export function Hero() {
               <div style={{ textAlign: "center" }}>
                 <div
                   style={{
-                    backgroundColor: "#047857", // vert foncé
+                    backgroundColor: "#030133ff", // vert foncé
                     padding: "1rem",
                     borderRadius: "50%",
                     width: "56px",
@@ -158,7 +159,7 @@ export function Hero() {
               <div style={{ textAlign: "center" }}>
                 <div
                   style={{
-                    backgroundColor: "#6D28D9", // violet foncé
+                    backgroundColor: "#bba755ff", // violet foncé
                     padding: "1rem",
                     borderRadius: "50%",
                     width: "56px",
